@@ -1,12 +1,20 @@
 # PHP web model
 > 純PHP開發模塊
- 
-# dev
-> 開發環境
 
-# test
-> 測試環境
+# config
+> 系統, DB
 
-# production
-> 正式環境
+# LAMP架設流程
+> PHP 7.0 , MySQL 5.7.22 , Apache 2.4.18 (phpmyadmin)    
+
+# Step 0 : adduser & 基本設定
+
+
+# Step 1: Install Apache  
+
+
+# Step 2: Install MySQL
+
+
+# Step 3: Install phpMyAdmin (PHP資料庫管理介面)
 
